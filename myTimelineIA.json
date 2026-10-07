@@ -1,0 +1,55 @@
+{
+    "title": {
+        "media": {
+            "url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop",
+            "caption": "Representación visual de redes neuronales y procesamiento de datos en Machine Learning.",
+            "credit": "Photo by <a href='https://unsplash.com/@solenfeyissa'>Solen Feyissa</a> on Unsplash"
+        },
+        "text": {
+            "headline": "Evolución Histórica de la IA y el Machine Learning<br/> 1950 - Presente",
+            "text": "<p>Un recorrido por los hitos más importantes que han dado forma a la inteligencia artificial, desde los fundamentos teóricos de Alan Turing hasta la explosión moderna del aprendizaje profundo.</p>"
+        }
+    },
+    "events": [
+        {
+            "media": { "url": "", "caption": "", "credit": "" },
+            "start_date": { "year": "1950" },
+            "text": {
+                "headline": "El Test de Turing",
+                "text": "Alan Turing publica su influyente artículo 'Computing Machinery and Intelligence', donde introduce el concepto de la prueba de Turing para evaluar si una máquina puede exhibir un comportamiento inteligente indistinguible del humano."
+            }
+        },
+        {
+            "media": { "url": "", "caption": "", "credit": "" },
+            "start_date": { "year": "1956" },
+            "text": {
+                "headline": "Conferencia de Dartmouth",
+                "text": "Organizada por John McCarthy, Marvin Minsky, Nathaniel Rochester y Claude Shannon. Es considerada el evento fundacional donde se acuñó oficialmente el término 'Inteligencia Artificial'."
+            }
+        },
+        {
+            "media": { "url": "", "caption": "", "credit": "" },
+            "start_date": { "year": "1973" },
+            "text": {
+                "headline": "El primer 'Invierno de la IA'",
+                "text": "Debido a las altas expectativas no cumplidas y a las limitaciones extremas de la potencia de cálculo de la época, los gobiernos y las empresas recortaron drásticamente la financiación para la investigación en IA."
+            }
+        },
+        {
+            "media": { "url": "", "caption": "", "credit": "" },
+            "start_date": { "year": "1997" },
+            "text": {
+                "headline": "Deep Blue vence al ajedrez",
+                "text": "El superordenador Deep Blue de IBM derrota al entonces campeón mundial de ajedrez Garry Kasparov, demostrando el poder de la computación avanzada y la fuerza bruta algorítmica."
+            }
+        },
+        {
+            "media": { "url": "", "caption": "", "credit": "" },
+            "start_date": { "year": "2012" },
+            "text": {
+                "headline": "El boom del Deep Learning",
+                "text": "El modelo AlexNet gana la competición ImageNet reduciendo drásticamente la tasa de error gracias al uso masivo de redes neuronales profundas y tarjetas gráficas (GPUs), marcando el inicio de la era moderna del aprendizaje automático."
+            }
+        }
+    ]
+}
